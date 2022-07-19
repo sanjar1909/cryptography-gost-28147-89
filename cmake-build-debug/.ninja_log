@@ -1,0 +1,7 @@
+# ninja log v5
+0	151	6798796814779445	CMakeFiles/cryptography_gost_28147_89.dir/main.c.obj	66e24fffa71e02a8
+153	418	6798796817378037	cryptography_gost_28147_89.exe	fb2e04777311ff7b
+3	100	6798798076400872	CMakeFiles/cryptography_gost_28147_89.dir/main.c.obj	881d63fa6cb88b34
+101	276	6798798077963008	cryptography_gost_28147_89.exe	fb2e04777311ff7b
+3	2144	6799666162607815	CMakeFiles/cryptography_gost_28147_89.dir/main.c.obj	881d63fa6cb88b34
+2145	2577	6799666166842824	cryptography_gost_28147_89.exe	fb2e04777311ff7b
